@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Phquathi
 
+
 I'm a college students with a passion for building efficient and scalable applications. I have a strong proficiency in Java, C#, and Python. My expertise includes:
 
 - .NET ASP Web development
@@ -16,6 +17,12 @@ I enjoy solving complex problems and continuously learning new technologies. Cur
 
 ⚡ Fun fact: I love exploring new technologies and applying them to solve real-world problems.
 
+
+### Connect with me:
+
+- ![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white) [Blog](https://phquathi.github.io/pHq-blog/)
+- ![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=Bilibili&logoColor=white) [Bilibili](https://space.bilibili.com/58820004)
+- ![Tieba](https://img.shields.io/badge/Tieba-00A1D6?style=for-the-badge&logo=Baidu&logoColor=white) [Tieba](https://tieba.baidu.com/home/main?id=tb.1.e08c8514.SaT4amGJK8gH-XUjBwvgmw?t=1694670503&fr=index)
 
 
 ### Languages and Tools:
