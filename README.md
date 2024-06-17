@@ -22,6 +22,9 @@ I enjoy solving complex problems and continuously learning new technologies. Cur
 ⚡ Fun fact: I love exploring new technologies and applying them to solve real-world problems.
 
 
+
+<div align="center">
+
 ### Connect with me:
 
 - ![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white) [my blog](https://phquathi.github.io/pHq-blog/)
@@ -39,4 +42,4 @@ I enjoy solving complex problems and continuously learning new technologies. Cur
 
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phquathi&layout=compact&exclude_repo=pHq-blog)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phquathi&layout=compact&exclude_repo=pHq-blog)](https://github.com/anuraghazra/github-readme-stats) </div>
