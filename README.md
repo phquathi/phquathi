@@ -26,11 +26,11 @@ I enjoy solving complex problems and continuously learning new technologies. Cur
 
 ### Connect with me:
 
-[![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://phquathi.github.io/pHq-blog/)
+[![My Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://phquathi.github.io/pHq-blog/)
 
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=Bilibili&logoColor=white)](https://space.bilibili.com/58820004)
+[![My Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=Bilibili&logoColor=white)](https://space.bilibili.com/58820004)
 
-[![Tieba](https://img.shields.io/badge/Tieba-00A1D6?style=for-the-badge&logo=Baidu&logoColor=white)](https://tieba.baidu.com/home/main?id=tb.1.e08c8514.SaT4amGJK8gH-XUjBwvgmw?t=1694670503&fr=index)
+[![My Tieba](https://img.shields.io/badge/Tieba-00A1D6?style=for-the-badge&logo=Baidu&logoColor=white)](https://tieba.baidu.com/home/main?id=tb.1.e08c8514.SaT4amGJK8gH-XUjBwvgmw?t=1694670503&fr=index)
 
 
 
