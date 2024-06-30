@@ -5,7 +5,9 @@
 </div>
 
 
-I'm a college students with a passion for building efficient and scalable applications. I have a strong proficiency in Java, C#, and Python. My expertise includes:
+I'm a college students with a passion for building efficient and scalable applications. I have a strong proficiency in Java, C#, and Python. 
+
+My expertise includes:
 
 - .NET ASP Web development
 - Maven project development
