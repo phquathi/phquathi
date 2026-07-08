@@ -5,23 +5,21 @@
 </div>
 
 
-I'm a college students with a passion for building efficient and scalable applications. I have a strong proficiency in Java, C#, and Python. 
+I’m a software developer focused on building AI agent systems, MCP servers, and practical tool integrations.
 
-My expertise includes:
+My work centers around connecting language models with real-world workflows through reliable tools, clean interfaces, and maintainable backend services. I enjoy designing systems that make agents more capable, more controllable, and easier to integrate into existing products.
 
-- .NET ASP Web development
-- Maven project development
-- Working with PyPI
+What I work on
 
-I enjoy solving complex problems and continuously learning new technologies. Currently, I am focusing on my master's degree in software engineering with a focus on .NET. Feel free to explore my repositories and get in touch if you'd like to collaborate!
+* AI agent development and tool orchestration
+* MCP server design and implementation
+* Backend services and automation workflows
+* Python, C#, Java, and related ecosystem tooling
+* Package development and open-source projects
 
-🔭 I’m currently working with [@danil](https://github.com/word0exe)
+I care about building software that is not only functional, but also clear, reusable, and easy to extend. Whether it’s an agent runtime, a tool API, a plugin, or a small automation utility, I like turning messy workflows into reliable systems.
 
-🌱 I’m currently learning advanced .NET techniques and cloud deployment strategies.
-
-👯 I’m looking to collaborate on open-source projects related to .NET, Java, and Python.
-
-⚡ Fun fact: I love exploring new technologies and applying them to solve real-world problems.
+I’m especially interested in turning messy workflows into clear, reusable systems.
 
 
 <div align="center">
