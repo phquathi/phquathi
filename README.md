@@ -39,9 +39,4 @@ I’m especially interested in turning messy workflows into clear, reusable syst
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) ![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
 
 
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=phquathi)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phquathi&layout=compact&exclude_repo=pHq-blog)](https://github.com/anuraghazra/github-readme-stats) </div>
+</div>
